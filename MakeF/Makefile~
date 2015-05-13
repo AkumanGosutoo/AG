@@ -1,0 +1,30 @@
+##
+## Makefile for Makefile in /home/soumph_s
+## 
+## Made by sirininh soumpholphakdy
+## Login   <soumph_s@epitech.net>
+## 
+## Started on  Thu Nov 13 13:55:55 2014 sirininh soumpholphakdy
+## Last update Thu Nov 13 14:21:56 2014 sirininh soumpholphakdy
+##
+
+SRC=	maine.c \
+	my_putchar.c \
+	my_putstr.c \
+
+NAME=	final
+
+CC=	cc
+
+OBJ=	$(SRC:.c=.o)
+
+all :		$(NAME)
+
+$(NAME):	$(OBJ)
+	$(CC) -o $(NAME) $(OBJ)
+
+clean :
+	rm $(OBJ)
+
+fclean :	clean
+	rm $(NAME)

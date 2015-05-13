@@ -1,0 +1,2 @@
+sudo mkdir /media/EXAM
+sudo mount /dev/sda5 /media/EXAM

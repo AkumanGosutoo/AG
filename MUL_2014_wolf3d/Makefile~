@@ -1,0 +1,25 @@
+##
+## Makefile for Makefile in /home/soumph_s
+## 
+## Made by sirininh soumpholphakdy
+## Login   <soumph_s@epitech.net>
+## 
+## Started on  Thu Dec 18 16:17:58 2014 sirininh soumpholphakdy
+## Last update Thu Dec 18 16:20:25 2014 sirininh soumpholphakdy
+##
+
+NAME	=	wolf3d
+
+SRCS	=
+
+OBJS	=	
+
+all:
+
+$(NAME):
+
+clean:
+
+fclean:
+
+re:

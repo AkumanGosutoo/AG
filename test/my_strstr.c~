@@ -1,0 +1,14 @@
+/*
+** *my_strstr.c for *my_strstr in /home/soumph_s/test
+** 
+** Made by sirininh soumpholphakdy
+** Login   <soumph_s@epitech.net>
+** 
+** Started on  Mon Oct 20 14:48:19 2014 sirininh soumpholphakdy
+** Last update Mon Oct 20 14:48:54 2014 sirininh soumpholphakdy
+*/
+
+int	*my_strstr(char *str, char *to find)
+{
+
+}

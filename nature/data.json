@@ -1,0 +1,189 @@
+{
+	data:
+	[
+	{
+		"q": "Que signifie UAL ?",
+		"r": "Unité Arithmétique et Logique"
+	},
+	{
+		"q": "Que ne fait pas l'unité de controle ?",
+		"r": "Execute les instructions"
+	},
+	{
+		"q": "Quel est le prototcole qui permet d'envoyer le courrier ?",
+		"r": "SMTP"
+	},
+	{
+		"q": "Parmi les types de mémoires suivantes quel est la plus lente d'acces ?",
+		"r": "ROM"
+	},
+	{
+		"q": "Quel est le systeme d'exploitation le plus ancien ?",
+		"r": "Unix"
+	},
+	{
+		"q": "Les transistors ont permis de remplacer quoi ?",
+		"r": "Les tubes a vide"
+	},
+	{
+		"q": "Comment s'appelait le precurseur d'internet ?",
+		"r": "L'arpanet"
+	},
+	{
+		"q": "A quoi correspond titi dans l'url suivante : telnet ://toto:titi@13.202.148.67:23 ?",
+		"r": "Au mot de passe"
+	},
+	{
+		"q": "Quel est le protocole dedie a la navigation WEB ?",
+		"r": "HTTP"
+	},
+	{
+		"q": "La logique informatique utilise la base ?",
+		"r": "Binaire"
+	},
+	{
+		"q": "A qui doit on les fonctions logiques ?",
+		"r": "George Boole"
+	},
+	{
+		"q": "Qu'est-ce qu'un processus ?",
+		"r": "Un programme en cours d'execution"
+	},
+	{
+		"q": "Quelle fonction n'est pas execute par le noyau d'un OS ?",
+		"r": "La gestion de securite"
+	},
+	{
+		"q": "Quelle est la topologie d'un reseau qui repond a cette description: Chaque ordinateur est relie a tous les autres",
+		"r": "Maill"
+	},
+	{
+		"q": "Qu'est-ce que le LAN ?",
+		"r": "Un reseau local"
+	},
+	{
+		"q": "Un octet c'est",
+		"r": "8 bits"
+	},
+	{
+		"q": "En quelle année a été inventé apple",
+		"r": "1976"
+	},
+	{
+		"q": "La loi de Moore dit",
+		"r": "Le nombre de transistors sur une puce de circout intégré douvle tous les 18 mois"
+	},
+	{
+		"q": "Une adresse IP (version 4) contient combien d'octet en tout ?",
+		"r": "4 octets"
+	},
+	{
+		"q": "Le nombre $10 est un nombre ?",
+		"r": "Hexadecimal"
+	},
+	{
+		"q": "Completer les trous dans la phrase suivante avec les bons mots: Un ordinateur: une machine qui saisit (), traite, et restitue () des informations",
+		"r": "Peripheriques d'entrée, memoire en programme, Peripheriques de sorties"
+	},
+	{
+		"q": "Comment se nomme l'organisme indépendant qui coordonne tout ce qui concerne l'internet au niveau mondia ?",
+		"r": "W3C"
+	},
+	{
+		"q": "Un systeme d'exploitation distribue est equivalent à un systeme",
+		"r": "reparti, multi-processeur"
+	},
+	{
+		"q": "Parmi les types de mémoires suivantes, quel est celle qui a la plus petite capacite",
+		"r": "Registres"
+	},
+	{
+		"q": "Quel etait la particularite de colossus",
+		"r": "C'est la premiere machine totalement electronique"
+	},
+	{
+		"q": "L'entreprise Lenovo s'est fait connaitre dans le monde de l'informatique en rachetant la division informatique de",
+		"r": "IBM"
+	},
+	{
+		"q": "Qu'est ce qui permet de synchroniser les composants d'une unite centrale ?",
+		"r": "L'horloge"
+	},
+	{
+		"q": "Dans la table ASCII a quoi correspond 10 en décimal ?",
+		"r": "/n"
+	},
+	{
+		"q": "Est-ce qu’il existe une porte logique ayant 4 entrées ?",
+		"r": "oui"
+	},
+	{
+		"q": "Dans quel genre de machines a-t-on peu de chance de trouver un système d’exploitation ",
+		"r": "l'ordinateur central de la NASA"
+	},
+	{
+		"q": "Une porte logique peut avoir combien de sorties ?",
+		"r": "plusieurs"
+	},
+	{
+		"q": "Comment s’appelle la partie qui permet de gérer plusieurs OS sur une machine ?",
+		"r": "Moniteur de machine virtuelle"
+	},
+	{
+		"q": "L’ordre correct des couches du modele OSI est ?",
+		"r": "Physique / Liaison / Réseau / Transport / Session / Présentation / Application"
+	},
+	{
+		"q": "De quand datent les premiers Windows ?",
+		"r": "1978 et 1985"
+	},
+	{
+		"q": "Quel est le support qui permet d’avoir le meilleur débit ?",
+		"r": "La fibre optique"
+	},
+	{
+		"q": "Quel élément de l’actualité de 2010 représente symboliquement la résurrection d’Apple ?",
+		"r": "Ipad"
+	},
+	{
+		"q": "Qu’est qu’un registre ?",
+		"r": "Une memoire"
+	},
+	{
+		"q": "Quel était le poids de l’ENIAC ?",
+		"r": "30 tonnes"
+	},
+	{
+		"q": "Un Mo vaut ?",
+		"r": "2^20 octets"
+	},
+	{
+		"q": "Que signifie WWW ?",
+		"r": "World wide web"
+	},
+	{
+		"q": "Internet est un réseau de type ?",
+		"r": "WAN"
+	},
+	{
+		"q": "Le nombre : 0x10 est un nombre ?0",
+		"r": "Hexa"
+	},
+	{
+		"q": "Qu’est-ce que le SSH ?",
+		"r": "A la fois un protocole et un programme"
+	},
+	{
+		"q": "Que signifie SSII ?",
+		"r": "Société de Services et d’Ingénierie en Informatique"
+	},
+	{
+		"q": "L’OS est une couche ?",
+		"r": "Software"
+	},
+	{
+		"q": "",
+		"r": ""
+	}
+	]
+}

@@ -1,0 +1,35 @@
+/*
+** mabeat.c for ma beat in /home/soumph_s
+** 
+** Made by sirininh soumpholphakdy
+** Login   <soumph_s@epitech.net>
+** 
+** Started on  Mon Oct  6 09:51:15 2014 sirininh soumpholphakdy
+** Last update Mon Oct  6 12:10:05 2014 sirininh soumpholphakdy
+*/
+
+int	my_putchar(char c)
+{
+  write(1,&c , 1);
+}
+
+int	my_putstr(char *str)
+{
+  int	i;
+
+  i = 0;
+  while (str[i] != '\0')
+    {
+      my_putchar(str[i]);
+      i = i + 1;
+    }
+}
+
+int	main()
+{
+  char	str[] = "hello\n";
+  char  str2[] = "hello \n";
+
+  my_putstr(str);
+  my_putstr(str2);
+}

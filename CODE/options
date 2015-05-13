@@ -1,0 +1,13 @@
+mysqld_safe
+mysql -u root -p
+
+USE db_name;
+SHOW [DATABASES | TABLES];
+SHOW [FULL] COLUMNS FROM table_name;
+HELP 'search_string'
+
+SELECT [DISTINCT] select_expression;
+[FROM table_references]
+[WHERE where_definition]
+[ORDER BY {unsigned integer | column_name | formula} [ASC|DESC]
+[LIMIT [offset,] lignes];

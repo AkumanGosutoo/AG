@@ -1,0 +1,10 @@
+{
+  "name": "J'aime la nature",
+  "version": "1.0",
+  "manifest_version": 2,
+  "description": "Et oui",
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  }
+}

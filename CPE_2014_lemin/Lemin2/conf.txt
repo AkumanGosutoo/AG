@@ -1,0 +1,20 @@
+300
+##start
+entree 10 20
+inter_1 2 3
+inter_2 2 3
+inter_3 2 3
+inter_4 2 3
+inter_5 2 3
+##end
+sortie 5 6
+entree-inter_1
+entree-inter_2
+entree-inter_3
+entree-inter_4
+inter_4-inter_5
+inter_5-sortie
+inter_2-sortie
+inter_3-sortie
+
+

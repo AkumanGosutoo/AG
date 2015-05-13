@@ -1,0 +1,30 @@
+void	my_putchar(char c)
+{
+  write(1, &c, 1);
+}
+
+int	my_strlen(char *str)
+{
+  int	i;
+
+  i = 0;
+  while (str && str[i])
+    i++;
+  return (i);
+}
+
+void	my_putstr(char *str)
+{
+  write(1, str, my_strlen(str));
+}
+
+int	main(int ac, char **av)
+{
+  if (ac < 2)
+    my_putchar('\n');
+  else
+    {
+      my_putstr(av[1]);
+      my_putchar('\n');
+    }
+}

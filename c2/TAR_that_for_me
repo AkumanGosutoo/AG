@@ -1,0 +1,2 @@
+tar -cf ../Cheat_Kit_Exam.tar *
+echo "Archive created!"
